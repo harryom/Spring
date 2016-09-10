@@ -1,3 +1,5 @@
 added from github
 one more line from github
 added from mac
+changes from github - conflict
+resolved conflicts
